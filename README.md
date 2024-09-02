@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/67ce0347-1a9e-4cb6-9d6a-44788d2ca1d1)
 
 <aside>
-💡 <h2>소켓 통신 구현</h2>
+<h2>💡  소켓 통신 구현</h2>
 
 1. 클라이언트와 서버가 통신해서 받을 파일은 temp2 폴더에 저장될 예정 파일은 이미 temp1 폴더에 저장되어 있음
 2. temp2 폴더에서 cmd 실행
@@ -17,6 +17,7 @@
 
 <h2>소켓 통신 구현 코드 실행</h2>
 ![image](https://github.com/user-attachments/assets/c192e4be-0d6e-4111-ae36-f33127cc9a03)
+<br/>
 ![image](https://github.com/user-attachments/assets/8cc42113-5b7b-4354-b69f-e11e26c53ef9)
 <br/>
 
