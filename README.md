@@ -13,6 +13,7 @@
 
 <h2>temp1 폴더</h2>
 ![image](https://github.com/user-attachments/assets/b773e938-b0e7-4a4a-b8cd-8728355fb992)
+<img src="https://github.com/user-attachments/assets/b773e938-b0e7-4a4a-b8cd-8728355fb992">
 <br/>
 
 <h2>소켓 통신 구현 코드 실행</h2>
