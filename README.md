@@ -21,4 +21,5 @@
 <br/>
 
 <h2>소켓 통신 구현 코드 실행 결과</h2>
-![image](https://github.com/user-attachments/assets/a3ca3606-ccdb-49e6-ac5c-45d10f2e67c2)
+![image](https://github.com/user-attachments/assets/0665e6e7-01d8-4da9-8d17-b9efe5b2fe1a)
+
