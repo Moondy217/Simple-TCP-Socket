@@ -12,12 +12,11 @@
 </aside>
 
 <h2>temp1 폴더</h2>
-![image](https://github.com/user-attachments/assets/b773e938-b0e7-4a4a-b8cd-8728355fb992)
 <img src="https://github.com/user-attachments/assets/b773e938-b0e7-4a4a-b8cd-8728355fb992">
 <br/>
 
 <h2>소켓 통신 구현 코드 실행</h2>
-![image](https://github.com/user-attachments/assets/c192e4be-0d6e-4111-ae36-f33127cc9a03)
+<img src="https://github.com/user-attachments/assets/c192e4be-0d6e-4111-ae36-f33127cc9a03">
 <br/>
 ![image](https://github.com/user-attachments/assets/8cc42113-5b7b-4354-b69f-e11e26c53ef9)
 <br/>
