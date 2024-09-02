@@ -12,7 +12,7 @@
 </aside>
 
 <h2>temp1 폴더</h2>
-![image](https://github.com/user-attachments/assets/69c5e3ae-39bb-4901-a1cf-423469da278d)
+![image](https://github.com/user-attachments/assets/b773e938-b0e7-4a4a-b8cd-8728355fb992)
 <br/>
 
 <h2>소켓 통신 구현 코드 실행</h2>
