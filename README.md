@@ -18,9 +18,10 @@
 <h2>소켓 통신 구현 코드 실행</h2>
 <img src="https://github.com/user-attachments/assets/c192e4be-0d6e-4111-ae36-f33127cc9a03">
 <br/>
-![image](https://github.com/user-attachments/assets/8cc42113-5b7b-4354-b69f-e11e26c53ef9)
+<br/>
+<img src="https://github.com/user-attachments/assets/8cc42113-5b7b-4354-b69f-e11e26c53ef9">
 <br/>
 
 <h2>소켓 통신 구현 코드 실행 결과</h2>
-![image](https://github.com/user-attachments/assets/0665e6e7-01d8-4da9-8d17-b9efe5b2fe1a)
+<img src="https://github.com/user-attachments/assets/0665e6e7-01d8-4da9-8d17-b9efe5b2fe1a">
 
